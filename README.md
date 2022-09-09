@@ -5,7 +5,7 @@ Splashscreen QGIS 3.28 Firenze - Backgrounds and GIMP project
 ## background image requirements
 
 1. license in the Public domain (required); 
-2. high resolution image (required) ~ 3000 px di wide; 
+2. high resolution image (required) ~ 3000 px wide; 
 3. represents a history map of the city of Florence;
 4. The writing Firenze clearly in evidence in the image;
 
