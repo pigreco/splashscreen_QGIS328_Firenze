@@ -25,7 +25,7 @@ Splashscreen QGIS 3.28 Firenze - Backgrounds and GIMP project
 
 <https://commons.wikimedia.org/wiki/File:1847_Molini_Pocket_Map_of_Florence_(Frienze),_Italy_-_Geographicus_-_Firenze-molini-1847.jpg>
 
-- Screensplash
+- Splashscreen
 
 ![](imagesLR/qgis328firenze.jpg)
 
