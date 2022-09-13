@@ -77,7 +77,8 @@ A rare and extraordinary 1847 map of Firenze or Florence, Italy by Giuseppe Moli
 
 - Description
 
-xxxx
+The Veduta della Catena (Chain Map) is the first general view of a city drawn according with the principle of central perspective. The original version was probably realised by Francesco di Lorenzo Rosselli in 1471-72, but was unfortunately lost. The actual copies are old reproductions preserved in various historical archives.
+The view shows a detailed image of the city from the Monteoliveto monastery. It constitutes a milestone in the history of cartographic representation as first attempt to use the mathematical theories by Paolo dal Pozzo Toscanelli and the correlated experience of Leon Battista Alberti in formalizing the rules of central perspective as written in the text “De pictura” in 1435. Substantially the rules of triangulation and the concept of representation in scale are already present in a nutshell in this work, making it of capital importance for the geographical representation.
 
 - Project GIMP
 
