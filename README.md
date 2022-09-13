@@ -7,6 +7,7 @@ Splashscreen QGIS 3.28 Firenze - Backgrounds and GIMP project
 - [splashscreen_QGIS328_Firenze](#splashscreen_qgis328_firenze)
   - [background image requirements](#background-image-requirements)
   - [documentation](#documentation)
+  - [repository folders](#repository-folders)
 - [Draft](#draft)
   - [First draft (Totò)](#first-draft-totò)
   - [Second draft (Iacopo)](#second-draft-iacopo)
@@ -26,6 +27,11 @@ Splashscreen QGIS 3.28 Firenze - Backgrounds and GIMP project
 1. link to the image;
 2. link to the license;
 3. link to image description
+
+## repository folders
+1. **imagesHR**: contains high resolution images;
+2. **imagesLR**: Contains low resolution images as screenshots and splashscreen examples
+3. **projectGIMP**: contains the GIMP project files
 
 # Draft 
 
