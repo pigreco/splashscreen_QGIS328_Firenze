@@ -90,19 +90,30 @@ The view shows a detailed image of the city from the Monteoliveto monastery. It 
 
 - Image
 
-![](imagesLR/img_03.png)
+![](imagesHR/harvard_HD_skampus.jpg)
 
 - Link
 
-<>
+<https://curiosity.lib.harvard.edu/scanned-maps/catalog/44-990105957300203941>  
+[Licenza] <https://nrs.harvard.edu/urn-3:HUL.eother:idscopyright>
 
 - Splashscreen
 
-![](imagesLR/qgis328firenzeStefano.jpg)
+![](imagesLR/harvard_splash328.png)
 
 - Description
 
-xxxx
+FLORENTIA PULCHERRIMA ETRURIAE CIVITAS  
+Perspective plan of the city of Florence, with the Arno River flowing from the lower left to the upper right, where two cherubs hold up the city's coat of arms. Top left is a legend with 17 entries concerning the Fortezza da Basso; bottom is the main legend with 228 entries in three columns.  
+Along the two side margins are distributed 10 vignettes depicting, from right to left:On either side of the image are 10 small views, depicting one the monument of Cosimo I on horseback, one the Duomo with its bell tower, one of the side access roads to Piazza dell'Annunziata with the same in the background, and the other seven Florentine games taking place in various parts of the city.  
+Based on Stefano Bonsignori's 1584 model, the plan is engraved by Wenzel Hollar, a painter and engraver from Prague, around 1660. Hollar's view was reissued in Amsterdam in 1700 by Frederick de Wit; the same image is also found in Giovanni Michele Bruto's Historia fiorentina and Giovanni Giorgio Grevio's Thesaurus antiquitatum et historiarum Italiae, Leiden 1723. Copperplate engraving, impressed on two sheets joined at center, small restored woodworm holes in upper white margin, overall in very good condition.
+
+CREATOR/CONTRIBUTOR: Wit, Frederik de., creator  
+CREATION DATE: 1695  
+PLACE OF ORIGIN: Netherlands, Amstelodami  
+PUBLISHER: Frederick de Wit  
+EXTENT: 1 map : col. ; 44 x 52 cm., on sheet 48 x 76 cm.  
+LANGUAGE: Italian  
 
 - Project GIMP
 
