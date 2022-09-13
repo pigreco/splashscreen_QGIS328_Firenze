@@ -117,6 +117,6 @@ LANGUAGE: Italian
 
 - Project GIMP
 
-[here](projectGIMP/splash328Stefano.xcf)
+[here](projectGIMP/harvard_splash328_stefano.xcf)
 
 ↑ [come back up](#splashscreen_qgis328_firenze) ↑
