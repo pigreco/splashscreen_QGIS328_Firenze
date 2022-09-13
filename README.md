@@ -51,6 +51,8 @@ A rare and extraordinary 1847 map of Firenze or Florence, Italy by Giuseppe Moli
 
 [here](projectGIMP/splash328.xcf)
 
+↑ [come back up](#splashscreen_qgis328_firenze) ↑
+
 ## Second draft (Iacopo)
 
 - Image
@@ -73,6 +75,7 @@ xxxx
 
 [here](projectGIMP/splash328Iacopo.xcf)
 
+↑ [come back up](#splashscreen_qgis328_firenze) ↑
 
 ## Third draft (Stefano)
 
@@ -95,3 +98,5 @@ xxxx
 - Project GIMP
 
 [here](projectGIMP/splash328Stefano.xcf)
+
+↑ [come back up](#splashscreen_qgis328_firenze) ↑
