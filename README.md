@@ -142,7 +142,7 @@ Proposta 2
 ![](imagesLR/bauer_1_splash328.png)  
 
 - Description  
-ITALIAN TOWN ATLASES BY BLAEU (1662)  
+ITALIAN TOWN ATLASES BY BLAEU (1662, 1704 Edition)  
 The Blaeu company is known primarily for its multi-volume atlas of the world known as Atlas Maior. In 1662, Joan Blaeu eventually published this atlas in its most extensive form with no fewer than eleven volumes. At the same time, he planned the publication of a second mega atlas which would be a multi-volume atlas of the cities and monuments of Italy, entitled the Theatrum civitatum et admirandorum Italiæ. In this, he took advantage of the trend of the Grand Tour, the study and knowledge journeys undertaken – usually to Italy – by the young elite.  
 Three instead of ten volumes Blaeu originally wanted to put two five-volume parts on the market. The first part, entitled Civitates Italiæ, was to cover the Italian cities. The focus of the second part, entitled Admiranda Urbis Romæ, was to be Rome’s monuments.  
 He ultimately only managed to publish three volumes in 1663: the volume on the cities of the Vatican State (part 1, volume 1), an incomplete volume on the cities of Naples and Sicily and a volume on the circuses and theatres of Rome (part 2, volume 1).
