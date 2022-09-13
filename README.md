@@ -2,6 +2,18 @@
 
 Splashscreen QGIS 3.28 Firenze - Backgrounds and GIMP project
 
+<!-- TOC -->
+
+- [splashscreen_QGIS328_Firenze](#splashscreen_qgis328_firenze)
+  - [background image requirements](#background-image-requirements)
+  - [documentation](#documentation)
+- [Draft](#draft)
+  - [First draft (Totò)](#first-draft-totò)
+  - [Second draft (Iacopo)](#second-draft-iacopo)
+  - [Third draft (Stefano)](#third-draft-stefano)
+
+<!-- /TOC -->
+
 ## background image requirements
 
 1. license in the Public domain (required); 
@@ -15,7 +27,9 @@ Splashscreen QGIS 3.28 Firenze - Backgrounds and GIMP project
 2. link to the license;
 3. link to image description
 
-## First draft
+# Draft 
+
+## First draft (Totò)
 
 - Image
 
@@ -27,7 +41,7 @@ Splashscreen QGIS 3.28 Firenze - Backgrounds and GIMP project
 
 - Splashscreen
 
-![](imagesLR/qgis328firenze.jpg)
+![](imagesLR/qgis328firenzeToto.jpg)
 
 - Description
 
@@ -37,5 +51,47 @@ A rare and extraordinary 1847 map of Firenze or Florence, Italy by Giuseppe Moli
 
 [here](projectGIMP/splash328.xcf)
 
-## Second draft
+## Second draft (Iacopo)
 
+- Image
+
+![](imagesLR/img_02.png)
+
+- Link
+
+<https://commons.wikimedia.org/wiki/File:Florence_-_View_with_Chain_-_woodcut.png#filehistory>
+
+- Splashscreen
+
+![](imagesLR/qgis328firenzeIacopo.jpg)
+
+- Description
+
+xxxx
+
+- Project GIMP
+
+[here](projectGIMP/splash328Iacopo.xcf)
+
+
+## Third draft (Stefano)
+
+- Image
+
+![](imagesLR/img_03.png)
+
+- Link
+
+<>
+
+- Splashscreen
+
+![](imagesLR/qgis328firenzeStefano.jpg)
+
+- Description
+
+xxxx
+
+- Project GIMP
+
+[here](projectGIMP/splash328Stefano.xcf)
