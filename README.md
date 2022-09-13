@@ -73,7 +73,7 @@ A rare and extraordinary 1847 map of Firenze or Florence, Italy by Giuseppe Moli
 
 - Splashscreen
 
-![](imagesLR/qgis328firenzeIacopo.jpg)
+![](imagesLR/splash328Iacopo.jpg)
 
 - Description
 
