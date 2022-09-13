@@ -120,3 +120,46 @@ LANGUAGE: Italian
 [here](projectGIMP/harvard_splash328_stefano.xcf)
 
 ↑ [come back up](#splashscreen_qgis328_firenze) ↑
+
+
+## Fourth draft (Stefano)
+
+- Image
+
+![](imagesHR/Bauer_HD.jpg)
+
+- Link
+
+<https://www.uu.nl/en/special-collections/collections/maps-and-atlases/town-plans/italian-town-atlases-by-blaeu>  
+[Licenza] In attesa di conferma
+
+- Splashscreen 1  
+Proposta 1  
+![](imagesLR/bauer_splash328.png)  
+  
+- Splashscreen 2  
+Proposta 2  
+![](imagesLR/bauer_1_splash328.png)  
+
+- Description  
+ITALIAN TOWN ATLASES BY BLAEU (1662)  
+The Blaeu company is known primarily for its multi-volume atlas of the world known as Atlas Maior. In 1662, Joan Blaeu eventually published this atlas in its most extensive form with no fewer than eleven volumes. At the same time, he planned the publication of a second mega atlas which would be a multi-volume atlas of the cities and monuments of Italy, entitled the Theatrum civitatum et admirandorum Italiæ. In this, he took advantage of the trend of the Grand Tour, the study and knowledge journeys undertaken – usually to Italy – by the young elite.  
+Three instead of ten volumes Blaeu originally wanted to put two five-volume parts on the market. The first part, entitled Civitates Italiæ, was to cover the Italian cities. The focus of the second part, entitled Admiranda Urbis Romæ, was to be Rome’s monuments.  
+He ultimately only managed to publish three volumes in 1663: the volume on the cities of the Vatican State (part 1, volume 1), an incomplete volume on the cities of Naples and Sicily and a volume on the circuses and theatres of Rome (part 2, volume 1).
+During his youth, Joan Blaeu travelled extensively in Italy, establishing reliable contacts along the way. Around 1660, when his plans for an Italian city atlas acquired form, he sent his son Pieter to Italy to breathe new life into these contacts. It was via his Italian contacts that Blaeu acquired the source material for the atlas. The main supplier of the illustrations and texts was the Italian philosopher and lawyer Carlo-Emanuele Vizzani (1617-1661). The texts on the reverse of the maps and prints also refer to other sources.  
+There is also evidence that Blaeu had to rely on older works due to a lack of up-to-date information, including the town maps from the Civitates Orbis Terrarum by Braun & Hogenberg. In 1682, the Blaeu heirs added another two volumes to the town atlas, namely those of Savoy and Piedmont. In 1697 and 1700, the bookseller Adriaen Moetjens, who lived in The Hague, republished these last two parts, with one in Dutch and the other in French.
+In 1704 or 1705, the Amsterdam-based publisher Pieter Mortier obtained a large amount of the copper plates of Blaeu's Italian city atlases. He reprinted the Blaeu maps and used them to compile an atlas in four volumes which was published in three languages (i.e. Latin, French and Dutch).  
+Many of the copper plates were changed or improved and many were given Mortier's imprint. Some plates were even completely retouched. Pieter Mortier also used new copper plates which were engraved in his own atelier. According to a catalogue of new titles, the three different editions of Mortier's publication of town atlases had been completed before the beginning of 1706. Mortier refers to the maps, town profiles and topographic prints individually in a book sales catalogue from around 1705.
+The four Mortier volumes concern:
+Lombardy (new plates);  
+The Vatican State (republication 1663, several new plates);  
+Naples and Sicily (republication 1663);  
+Monuments of Rome (republication 1663, with various plates from the other volumes).
+
+
+- Project GIMP
+
+[here 1](projectGIMP/bauer_splash328.xcf)    
+[here 2](projectGIMP/bauer_1_splash328.xcf)  
+  
+↑ [come back up](#splashscreen_qgis328_firenze) ↑
