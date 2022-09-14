@@ -2,7 +2,7 @@
 
 Splashscreen QGIS 3.28 Firenze - Backgrounds and GIMP project
 
-----------------> UNDER CONSTRUCTION <--------------------------
+-------> proposals are accepted until Saturday 17 September at 11:59 pm <-------
 
 <!-- TOC -->
 
