@@ -96,7 +96,7 @@ The view shows a detailed image of the city from the Monteoliveto monastery. It 
 - Link
 
 <https://curiosity.lib.harvard.edu/scanned-maps/catalog/44-990105957300203941>  
-[Licenza] <https://nrs.harvard.edu/urn-3:HUL.eother:idscopyright>
+[Licenza](imagesHR/permission_using_Harvard_Map_Collection.pdf)
 
 - Splashscreen
 
@@ -131,7 +131,7 @@ LANGUAGE: Italian
 - Link
 
 <https://www.uu.nl/en/special-collections/collections/maps-and-atlases/town-plans/italian-town-atlases-by-blaeu>  
-[Licenza] In attesa di conferma
+[Licenza](imagesHR/permission_%20using_Italian_town_atlases_Blaeu.pdf)
 
 - Splashscreen 1  
 Proposta 1  
