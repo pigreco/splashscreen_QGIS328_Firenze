@@ -14,6 +14,7 @@ Splashscreen QGIS 3.28 Firenze - Backgrounds and GIMP project
   - [First draft (Totò)](#first-draft-totò)
   - [Second draft (Iacopo)](#second-draft-iacopo)
   - [Third draft (Stefano)](#third-draft-stefano)
+  - [Fourth draft (Stefano)](#fourth-draft-stefano)
 
 <!-- /TOC -->
 
@@ -120,7 +121,6 @@ LANGUAGE: Italian
 [here](projectGIMP/harvard_splash328_stefano.xcf)
 
 ↑ [come back up](#splashscreen_qgis328_firenze) ↑
-
 
 ## Fourth draft (Stefano)
 
