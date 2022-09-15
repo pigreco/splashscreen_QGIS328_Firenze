@@ -192,6 +192,39 @@ RIGHTS STATEMENT: The New York Public Library believes that this item is in the 
 - Project GIMP
 
 [here](projectGIMP/Boboli_splash328.xcf)    
+
+
   
+  ## Sixth draft (Skampus)
+
+- Image
+
+![](imagesHR/pianta_firenze_1835.jpg)
+
+- Link
+
+[David Rumsey map collection]<https://www.davidrumsey.com/luna/servlet/s/2od13d>  
+[Licence here](https://www.davidrumsey.com/about/copyright-and-permissions)  
+
+- Splashscreen 
     
+![](imagesLR/firenze_1835_splash328.png)  
+  
+- Description  
+Title: Florence. Firenze. Published under the superintendence of the Society for the Diffusion of Useful Knowledge. Drawn by W.B. Clarke, Archt. Engraved by E. Turrell. Published Baldwin & Cradock, 47 Paternoster Row, 1835. (London: Chapman & Hall, 1844)    
+Author: Society for the Diffusion of Useful Knowledge (Great Britain)  
+Date: 1835  
+Publisher: Chapman and Hall Publisher, London  
+Size: 28 cm x 38 cm    
+Scale: 1:9,000  
+Pub Date: 1844  
+Pub Title: Maps of the Society for the Diffusion of Useful Knowledge. Vol. 1. London: Chapman and Hall, 186, Strand, 1844  
+Note: The SDUK, as the Society was known, produced inexpensive maps to encourage broad use in education. The maps in these two volumes were issued in parts over several years. The city plans are of particular interest, with vignettes and great detail. The gnomonic star maps were issued separately in this edition in their own covers. This is the second edition, the first being by Baldwin and Cradock, with the maps issued in numbers and later bound as a set. Rumsey Collection copy originally issued without the 6 "World on a gnomonic projection" maps; copies of them have been laid in. Atlas is bound in half leather dark brown cloth covered boards with "Maps. Vol. 1," "Maps. Vol. 2" stamped in gold on the spines. Maps with outline color; geological map of England and Wales hand colored in full color.  
+Collection: Rumsey Collection  
+
+
+- Project GIMP
+
+[here](projectGIMP/pianta_firenze_1835.zip)    
+  
 ↑ [come back up](#splashscreen_qgis328_firenze) ↑
