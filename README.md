@@ -87,7 +87,7 @@ The view shows a detailed image of the city from the Monteoliveto monastery. It 
 
 ↑ [come back up](#splashscreen_qgis328_firenze) ↑
 
-## Third draft (Stefano)
+## Third draft (Skampus)
 
 - Image
 
@@ -122,7 +122,7 @@ LANGUAGE: Italian
 
 ↑ [come back up](#splashscreen_qgis328_firenze) ↑
 
-## Fourth draft (Stefano)
+## Fourth draft (Skampus)
 
 - Image
 
@@ -162,4 +162,36 @@ Monuments of Rome (republication 1663, with various plates from the other volume
 [here 1](projectGIMP/bauer_splash328.xcf)    
 [here 2](projectGIMP/bauer_1_splash328.xcf)  
   
+    
+## Fifth draft (Skampus)
+
+- Image
+
+![](imagesHR/Boboli_1789.jpg)
+
+- Link
+
+<https://digitalcollections.nypl.org/items/510d47dc-84e2-a3d9-e040-e00a18064a99>  
+Licennce: public domain  
+
+- Splashscreen 
+    
+![](imagesLR/Boboli_splash328.png)  
+  
+- Description  
+TITLE: Il reale giardino di Boboli nella sua pianta e nelle sue statue di Francesco Maria Soldini    
+NAMES: Soldini, Francesco Maria (Author) and Vascellini, Gaetano, 1745-1805 (Artist)  
+DATES / ORIGIN: Date Issued: 1789 in Firenze  
+LIBRARY LOCATIONS: The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Art & Architecture Collection Shelf locator: MEM V329sr (Soldini, F. M. Reale giardino di Boboli)  
+PHYSICAL DESCRIPTION: Engravings, Extent: 38 x 60 cm  
+LANGUAGES: Italian  
+IDENTIFIERS: New York Public Library (NYPL) catalog ID (B-number): b13991127; Universal Unique Identifier (UUID): 075696d0-c6db-012f-1d58-58d385a7bc34  
+RIGHTS STATEMENT: The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, "From The New York Public Library," and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future.
+
+
+- Project GIMP
+
+[here](projectGIMP/Boboli_splash328.xcf)    
+  
+    
 ↑ [come back up](#splashscreen_qgis328_firenze) ↑
