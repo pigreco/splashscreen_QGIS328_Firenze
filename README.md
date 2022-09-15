@@ -1,8 +1,8 @@
 # splashscreen_QGIS328_Firenze
 
-Splashscreen QGIS 3.28 Firenze - Backgrounds and GIMP project
+Splashscreen **QGIS 3.28 Firenze** - Backgrounds and GIMP project
 
--------> proposals are accepted until Saturday 17 September at 11:59 pm <-------
+-------> **proposals are accepted until Saturday 17 September at 11:59 pm** <-------
 
 <!-- TOC -->
 
