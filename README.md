@@ -1,10 +1,15 @@
 # Splashscreen QGIS 3.28 Firenze
 
-Available from 2022-10-21 and LTR from 2023-02-17
-
-Splashscreen **QGIS 3.28 Firenze** - Backgrounds and GIMP project
 
 -------> **proposals are accepted until Saturday 17 September at 11:59 pm** <-------
+
+RC Available from **2022-10-21** and LTR from **2023-02-17**
+
+**Winning Proposal:**
+
+<p align="center"><a href="" target="_blank"><img src="imagesLR/base.png" width="500" title="by Totò"></a></p>
+
+Splashscreen **QGIS 3.28 Firenze** - Backgrounds and GIMP project
 
 <!-- TOC -->
 
