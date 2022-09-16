@@ -13,8 +13,10 @@ Splashscreen **QGIS 3.28 Firenze** - Backgrounds and GIMP project
 - [Draft](#draft)
   - [First draft (Totò)](#first-draft-totò)
   - [Second draft (Iacopo)](#second-draft-iacopo)
-  - [Third draft (Stefano)](#third-draft-stefano)
-  - [Fourth draft (Stefano)](#fourth-draft-stefano)
+  - [Third draft (Skampus)](#third-draft-skampus)
+  - [Fourth draft (Skampus)](#fourth-draft-skampus)
+  - [Fifth draft (Skampus)](#fifth-draft-skampus)
+  - [Sixth draft (Skampus)](#sixth-draft-skampus)
 
 <!-- /TOC -->
 
@@ -161,7 +163,7 @@ Monuments of Rome (republication 1663, with various plates from the other volume
 
 [here 1](projectGIMP/bauer_splash328.xcf)    
 [here 2](projectGIMP/bauer_1_splash328.xcf)  
-  
+
     
 ## Fifth draft (Skampus)
 
@@ -193,9 +195,7 @@ RIGHTS STATEMENT: The New York Public Library believes that this item is in the 
 
 [here](projectGIMP/Boboli_splash328.xcf)    
 
-
-  
-  ## Sixth draft (Skampus)
+## Sixth draft (Skampus)
 
 - Image
 
@@ -221,7 +221,6 @@ Pub Date: 1844
 Pub Title: Maps of the Society for the Diffusion of Useful Knowledge. Vol. 1. London: Chapman and Hall, 186, Strand, 1844  
 Note: The SDUK, as the Society was known, produced inexpensive maps to encourage broad use in education. The maps in these two volumes were issued in parts over several years. The city plans are of particular interest, with vignettes and great detail. The gnomonic star maps were issued separately in this edition in their own covers. This is the second edition, the first being by Baldwin and Cradock, with the maps issued in numbers and later bound as a set. Rumsey Collection copy originally issued without the 6 "World on a gnomonic projection" maps; copies of them have been laid in. Atlas is bound in half leather dark brown cloth covered boards with "Maps. Vol. 1," "Maps. Vol. 2" stamped in gold on the spines. Maps with outline color; geological map of England and Wales hand colored in full color.  
 Collection: Rumsey Collection  
-
 
 - Project GIMP
 
