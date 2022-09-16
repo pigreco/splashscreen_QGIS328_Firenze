@@ -145,13 +145,13 @@ LANGUAGE: Italian
 
 - Splashscreen 1
 
-Proposta 1
+Proposal 1
 
 ![](imagesLR/bauer_splash328.png)  
   
 - Splashscreen 2
 
-Proposta 2
+Proposal 2
 
 ![](imagesLR/bauer_1_splash328.png)  
 
@@ -188,7 +188,7 @@ Monuments of Rome (republication 1663, with various plates from the other volume
 
 <https://digitalcollections.nypl.org/items/510d47dc-84e2-a3d9-e040-e00a18064a99>
 
-Licennce: public domain  
+Licence: public domain  
 
 - Splashscreen 
     
