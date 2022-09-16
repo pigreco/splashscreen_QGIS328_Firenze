@@ -142,7 +142,7 @@ LANGUAGE: Italian
 
 - Image
 
-<p align="center"><a href="https://www.uu.nl/en/special-collections/collections/maps-and-atlases/town-plans/italian-town-atlases-by-blaeu" target="_blank"><img src="imagesHR/Bauer_HD.jpg" width="400" title="by Skampus"></a></p>
+<p align="center"><a href="https://www.uu.nl/en/special-collections/collections/maps-and-atlases/town-plans/italian-town-atlases-by-blaeu" target="_blank"><img src="imagesHR/Bauer_HD.jpg" width="500" title="by Skampus"></a></p>
 
 - Link
 
