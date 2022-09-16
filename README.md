@@ -7,9 +7,10 @@ Splashscreen **QGIS 3.28 Firenze** - Backgrounds and GIMP project
 <!-- TOC -->
 
 - [splashscreen_QGIS328_Firenze](#splashscreen_qgis328_firenze)
-  - [background image requirements](#background-image-requirements)
-  - [documentation](#documentation)
-  - [repository folders](#repository-folders)
+  - [Thread QGIS-it-user](#thread-qgis-it-user)
+  - [Background image requirements](#background-image-requirements)
+  - [Documentation](#documentation)
+  - [Repository folders](#repository-folders)
 - [Draft](#draft)
   - [First draft (Totò)](#first-draft-totò)
   - [Second draft (Iacopo)](#second-draft-iacopo)
@@ -20,20 +21,25 @@ Splashscreen **QGIS 3.28 Firenze** - Backgrounds and GIMP project
 
 <!-- /TOC -->
 
-## background image requirements
+## Thread QGIS-it-user
+
+<https://lists.osgeo.org/pipermail/qgis-it-user/2022-September/009931.html>
+
+## Background image requirements
 
 1. license in the Public domain (required); 
 2. high resolution image (required) ~ 3000 px wide; 
 3. represents a history map of the city of Florence;
 4. The writing Firenze clearly in evidence in the image;
 
-## documentation
+## Documentation
 
 1. link to the image;
 2. link to the license;
 3. link to image description
 
-## repository folders
+## Repository folders
+
 1. **imagesHR**: contains high resolution images;
 2. **imagesLR**: Contains low resolution images as screenshots and splashscreen examples
 3. **projectGIMP**: contains the GIMP project files
