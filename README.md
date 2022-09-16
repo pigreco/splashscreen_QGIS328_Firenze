@@ -50,7 +50,7 @@ Splashscreen **QGIS 3.28 Firenze** - Backgrounds and GIMP project
 
 - Image
 
-<p align="center"><a href="" target="_blank"><img src="imagesLR/img_01.png" width="500" title="by Totò"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:1847_Molini_Pocket_Map_of_Florence_(Frienze),_Italy_-_Geographicus_-_Firenze-molini-1847.jpg" target="_blank"><img src="imagesLR/img_01.png" width="500" title="by Totò"></a></p>
 
 - Link
 
@@ -74,7 +74,7 @@ A rare and extraordinary 1847 map of Firenze or Florence, Italy by Giuseppe Moli
 
 - Image
 
-<p align="center"><a href="" target="_blank"><img src="imagesLR/img_02.png" width="500" title="by Iacopo"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Florence_-_View_with_Chain_-_woodcut.png#filehistory" target="_blank"><img src="imagesLR/img_02.png" width="500" title="by Iacopo"></a></p>
 
 - Link
 
@@ -99,7 +99,7 @@ The view shows a detailed image of the city from the Monteoliveto monastery. It 
 
 - Image
 
-<p align="center"><a href="" target="_blank"><img src="imagesHR/harvard_HD_skampus.jpg" width="500" title="by Skampus"></a></p>
+<p align="center"><a href="https://curiosity.lib.harvard.edu/scanned-maps/catalog/44-990105957300203941" target="_blank"><img src="imagesHR/harvard_HD_skampus.jpg" width="500" title="by Skampus"></a></p>
 
 - Link
 
@@ -135,11 +135,12 @@ LANGUAGE: Italian
 
 - Image
 
-<p align="center"><a href="" target="_blank"><img src="imagesHR/Bauer_HD.jpg" width="400" title="by Skampus"></a></p>
+<p align="center"><a href="https://www.uu.nl/en/special-collections/collections/maps-and-atlases/town-plans/italian-town-atlases-by-blaeu" target="_blank"><img src="imagesHR/Bauer_HD.jpg" width="400" title="by Skampus"></a></p>
 
 - Link
 
-<https://www.uu.nl/en/special-collections/collections/maps-and-atlases/town-plans/italian-town-atlases-by-blaeu>  
+<https://www.uu.nl/en/special-collections/collections/maps-and-atlases/town-plans/italian-town-atlases-by-blaeu>
+
 [Licenza](imagesHR/permission_%20using_Italian_town_atlases_Blaeu.pdf)
 
 - Splashscreen 1
@@ -180,11 +181,12 @@ Monuments of Rome (republication 1663, with various plates from the other volume
 
 - Image
 
-<p align="center"><a href="" target="_blank"><img src="imagesHR/Boboli_1789.jpg" width="300" title="by Skampus"></a></p>
+<p align="center"><a href="https://digitalcollections.nypl.org/items/510d47dc-84e2-a3d9-e040-e00a18064a99" target="_blank"><img src="imagesHR/Boboli_1789.jpg" width="300" title="by Skampus"></a></p>
 
 - Link
 
-<https://digitalcollections.nypl.org/items/510d47dc-84e2-a3d9-e040-e00a18064a99>  
+<https://digitalcollections.nypl.org/items/510d47dc-84e2-a3d9-e040-e00a18064a99>
+
 Licennce: public domain  
 
 - Splashscreen 
@@ -210,7 +212,7 @@ RIGHTS STATEMENT: The New York Public Library believes that this item is in the 
 
 - Image
 
-<p align="center"><a href="" target="_blank"><img src="imagesHR/pianta_firenze_1835.jpg" width="500" title="by Skampus"></a></p>
+<p align="center"><a href="https://www.davidrumsey.com/luna/servlet/s/2od13d" target="_blank"><img src="imagesHR/pianta_firenze_1835.jpg" width="500" title="by Skampus"></a></p>
 
 - Link
 
