@@ -50,7 +50,7 @@ Splashscreen **QGIS 3.28 Firenze** - Backgrounds and GIMP project
 
 - Image
 
-![](imagesLR/img_01.png)
+<p align="center"><a href="" target="_blank"><img src="imagesLR/img_01.png" width="500" title="by Totò"></a></p>
 
 - Link
 
@@ -74,7 +74,7 @@ A rare and extraordinary 1847 map of Firenze or Florence, Italy by Giuseppe Moli
 
 - Image
 
-![](imagesLR/img_02.png)
+<p align="center"><a href="" target="_blank"><img src="imagesLR/img_02.png" width="500" title="by Iacopo"></a></p>
 
 - Link
 
@@ -99,11 +99,12 @@ The view shows a detailed image of the city from the Monteoliveto monastery. It 
 
 - Image
 
-![](imagesHR/harvard_HD_skampus.jpg)
+<p align="center"><a href="" target="_blank"><img src="imagesHR/harvard_HD_skampus.jpg" width="500" title="by Skampus"></a></p>
 
 - Link
 
 <https://curiosity.lib.harvard.edu/scanned-maps/catalog/44-990105957300203941>  
+
 [Licenza](imagesHR/permission_using_Harvard_Map_Collection.pdf)
 
 - Splashscreen
@@ -134,19 +135,23 @@ LANGUAGE: Italian
 
 - Image
 
-![](imagesHR/Bauer_HD.jpg)
+<p align="center"><a href="" target="_blank"><img src="imagesHR/Bauer_HD.jpg" width="400" title="by Skampus"></a></p>
 
 - Link
 
 <https://www.uu.nl/en/special-collections/collections/maps-and-atlases/town-plans/italian-town-atlases-by-blaeu>  
 [Licenza](imagesHR/permission_%20using_Italian_town_atlases_Blaeu.pdf)
 
-- Splashscreen 1  
-Proposta 1  
+- Splashscreen 1
+
+Proposta 1
+
 ![](imagesLR/bauer_splash328.png)  
   
-- Splashscreen 2  
-Proposta 2  
+- Splashscreen 2
+
+Proposta 2
+
 ![](imagesLR/bauer_1_splash328.png)  
 
 - Description  
@@ -175,7 +180,7 @@ Monuments of Rome (republication 1663, with various plates from the other volume
 
 - Image
 
-![](imagesHR/Boboli_1789.jpg)
+<p align="center"><a href="" target="_blank"><img src="imagesHR/Boboli_1789.jpg" width="300" title="by Skampus"></a></p>
 
 - Link
 
@@ -205,7 +210,7 @@ RIGHTS STATEMENT: The New York Public Library believes that this item is in the 
 
 - Image
 
-![](imagesHR/pianta_firenze_1835.jpg)
+<p align="center"><a href="" target="_blank"><img src="imagesHR/pianta_firenze_1835.jpg" width="500" title="by Skampus"></a></p>
 
 - Link
 
