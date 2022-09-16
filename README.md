@@ -1,4 +1,4 @@
-# splashscreen_QGIS328_Firenze
+# Splashscreen QGIS 3.28 Firenze
 
 Splashscreen **QGIS 3.28 Firenze** - Backgrounds and GIMP project
 
@@ -6,7 +6,7 @@ Splashscreen **QGIS 3.28 Firenze** - Backgrounds and GIMP project
 
 <!-- TOC -->
 
-- [splashscreen_QGIS328_Firenze](#splashscreen_qgis328_firenze)
+- [Splashscreen QGIS 3.28 Firenze](#splashscreen-qgis-328-firenze)
   - [Thread QGIS-it-user](#thread-qgis-it-user)
   - [Background image requirements](#background-image-requirements)
   - [Documentation](#documentation)
@@ -68,7 +68,7 @@ A rare and extraordinary 1847 map of Firenze or Florence, Italy by Giuseppe Moli
 
 [here](projectGIMP/splash328.xcf)
 
-↑ [come back up](#splashscreen_qgis328_firenze) ↑
+↑ [come back up](#splashscreen-qgis-328-firenze) ↑
 
 ## Second draft (Iacopo)
 
@@ -93,7 +93,7 @@ The view shows a detailed image of the city from the Monteoliveto monastery. It 
 
 [here](projectGIMP/splash328Iacopo.xcf)
 
-↑ [come back up](#splashscreen_qgis328_firenze) ↑
+↑ [come back up](#splashscreen-qgis-328-firenze) ↑
 
 ## Third draft (Skampus)
 
@@ -129,7 +129,7 @@ LANGUAGE: Italian
 
 [here](projectGIMP/harvard_splash328_stefano.xcf)
 
-↑ [come back up](#splashscreen_qgis328_firenze) ↑
+↑ [come back up](#splashscreen-qgis-328-firenze) ↑
 
 ## Fourth draft (Skampus)
 
@@ -239,4 +239,4 @@ Collection: Rumsey Collection
 
 [here](projectGIMP/pianta_firenze_1835.zip)    
   
-↑ [come back up](#splashscreen_qgis328_firenze) ↑
+↑ [come back up](#splashscreen-qgis-328-firenze) ↑
