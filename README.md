@@ -155,7 +155,8 @@ Proposta 2
 
 ![](imagesLR/bauer_1_splash328.png)  
 
-- Description  
+- Description
+
 ITALIAN TOWN ATLASES BY BLAEU (1662, 1704 Edition)  
 The Blaeu company is known primarily for its multi-volume atlas of the world known as Atlas Maior. In 1662, Joan Blaeu eventually published this atlas in its most extensive form with no fewer than eleven volumes. At the same time, he planned the publication of a second mega atlas which would be a multi-volume atlas of the cities and monuments of Italy, entitled the Theatrum civitatum et admirandorum Italiæ. In this, he took advantage of the trend of the Grand Tour, the study and knowledge journeys undertaken – usually to Italy – by the young elite.  
 Three instead of ten volumes Blaeu originally wanted to put two five-volume parts on the market. The first part, entitled Civitates Italiæ, was to cover the Italian cities. The focus of the second part, entitled Admiranda Urbis Romæ, was to be Rome’s monuments.  
@@ -193,7 +194,8 @@ Licennce: public domain
     
 ![](imagesLR/Boboli_splash328.png)  
   
-- Description  
+- Description
+
 TITLE: Il reale giardino di Boboli nella sua pianta e nelle sue statue di Francesco Maria Soldini    
 NAMES: Soldini, Francesco Maria (Author) and Vascellini, Gaetano, 1745-1805 (Artist)  
 DATES / ORIGIN: Date Issued: 1789 in Firenze  
@@ -223,7 +225,8 @@ RIGHTS STATEMENT: The New York Public Library believes that this item is in the 
     
 ![](imagesLR/firenze_1835_splash328.png)  
   
-- Description  
+- Description
+
 Title: Florence. Firenze. Published under the superintendence of the Society for the Diffusion of Useful Knowledge. Drawn by W.B. Clarke, Archt. Engraved by E. Turrell. Published Baldwin & Cradock, 47 Paternoster Row, 1835. (London: Chapman & Hall, 1844)    
 Author: Society for the Diffusion of Useful Knowledge (Great Britain)  
 Date: 1835  
