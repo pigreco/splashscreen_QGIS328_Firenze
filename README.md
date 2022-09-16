@@ -81,7 +81,7 @@ A rare and extraordinary 1847 map of Firenze or Florence, Italy by Giuseppe Moli
 
 - Image
 
-<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Florence_-_View_with_Chain_-_woodcut.png#filehistory" target="_blank"><img src="imagesLR/img_02.png" width="500" title="by Iacopo"></a></p>
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Florence_-_View_with_Chain_-_woodcut.png#filehistory" target="_blank"><img src="imagesLR/img_02.png" width="600" title="by Iacopo"></a></p>
 
 - Link
 
