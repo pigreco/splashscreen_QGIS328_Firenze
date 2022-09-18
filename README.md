@@ -6,7 +6,7 @@
 
 RC Available from **2022-10-21** and LTR from **2023-02-17**
 
-**Winning Proposal:**
+**Winning Proposal:**???
 
 <p align="center"><a href="https://changelog.qgis.org/en/qgis/version/3.28/" target="_blank"><img src="imagesLR/base.png" width="500" title="QGIS 3.28 Firenze"></a></p>
 
