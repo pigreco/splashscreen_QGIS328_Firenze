@@ -1,7 +1,8 @@
 # Splashscreen QGIS 3.28 Firenze
 
 
--------> **proposals are accepted until Saturday 17 September at 11:59 pm** <-------
+-------> **proposals are accepted until Saturday 17 September at 11:59 pm** <-------<br>
+------->**Time out, under the proposals of the Italian community**<--------
 
 RC Available from **2022-10-21** and LTR from **2023-02-17**
 
